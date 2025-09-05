@@ -1,0 +1,176 @@
+.custom-bg{
+    background-color: palevioletred;
+}
+
+.custom-color{
+    color: palevioletred;
+}
+
+
+.custom-margin{
+    margin-left: 2rem !important;
+}
+
+#first{
+    background-color: palevioletred;
+    padding-top: 15px;
+}
+
+.icons{
+    font-size: 35px;
+}
+
+.second div h1{
+    font-size: 120px;
+    color: gray;
+    opacity: 0.2;
+}
+
+.second{
+    padding: 60px 0px;
+}
+
+#about{
+    color: #555555;
+    font-size: 55px;
+}
+
+#me{
+    color: palevioletred;
+    font-size: 55px;
+}
+
+
+.navTabBg{
+    padding: 25px 100px;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #fff;
+    background-color: palevioletred;
+}
+
+.nav-link{
+    color: #555555;
+    margin-top:30px;
+}
+
+.nav-link:hover{
+    color: #555555;
+}
+
+.svg-size{
+    font-size: 30px;
+}
+
+#numbers-row{
+    background-color: palevioletred;
+}
+
+
+.before::before{
+    content: '| ';
+    color: palevioletred;
+}
+
+
+.content{
+    color: #555555;
+}
+
+.center-icon{
+    opacity: 0;
+}
+
+.parent:hover .center-icon{
+    opacity: 1;
+}
+
+.parent img{
+    opacity: 1;
+}
+
+.parent{
+    background: palevioletred !important;
+}
+
+.parent img:hover{
+    opacity: 0.5 !important;
+} 
+
+.owl-nav{
+    display: none;
+}
+
+
+.custom-padding {
+    padding-top: 0.5rem!important;
+    padding-bottom: 0.5rem!important;
+}
+
+
+.image-hover:hover{
+    transform: scale(1.5);
+    transition: all 0.8s ease;
+}
+
+
+.image-hover{
+    transform: scale(1);
+    transition: all 0.8s ease;
+}
+
+
+#second-owl-corousel div{
+    font-size: 25px;
+}
+
+
+.contact-info{
+    background-color: #F8F9FA;
+}
+
+
+@media (min-width: 768px) {
+    #v-pills-tabContent {
+        margin-top: 1.85rem !important;
+    }
+    .col-md-6{
+        width:50% ;
+    }
+}
+
+@media (max-width: 576px){
+    .second div h1{
+        font-size: 80px;
+        color: gray;
+        opacity: 0.2;
+    }
+}
+
+
+@media (min-width: 576px){
+    #profile-img{
+        position: relative;
+        top: 35px;
+        left: 150px;
+    }
+}
+
+.for p i{
+    color: palevioletred;
+}
+h3 {
+    color: palevioletred;
+}
+
+.dow a{
+    color: white;
+    background-color:palevioletred;
+    text-decoration: none;
+    outline: none;
+}
+.dow a:hover{
+    color: white;
+    outline: none;
+}

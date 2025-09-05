@@ -1,0 +1,21 @@
+body
+{
+    background-color: blueviolet;
+}
+
+.container
+{
+    width:600px;
+    height:600px;
+    background-color: whitesmoke;
+    margin-left:470px;
+    margin-top:40px;
+    border-radius:8px;
+    float:left;
+}
+.header
+{
+    width:600px;
+    height:30px;
+    background-color: ;
+}
